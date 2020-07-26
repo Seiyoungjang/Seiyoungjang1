@@ -1,0 +1,100 @@
+h1 {
+	font-family: cursive;
+	font-size: 350%;
+	text-align: center;
+	text-shadow: .2em .2em .3em silver;
+	background-image: url(../../../techno.jpg);
+	height: 110px;
+	width: 1420px;
+	border-style: solid;
+	border-radius: 1em;
+	border-color: #f39c12;
+	color: aliceblue;
+
+
+
+
+}
+
+body {
+	background-color: #ffffcc;
+	font-family: time;
+	z-index: 3;
+	background-image: url(../../../baggg.jpg);
+	background-image: repeat;
+	postion: absolute;s
+
+
+}
+
+
+.explanation {
+	position: relative;
+	background-image: url(../../../techno.jpg);
+	width: 47rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 1.5rem;
+	margin-left: 18rem;
+	margin-right: -18rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: #f39c12;
+	position: absolute:
+	color: aliceblue;
+	text-align: center;
+	z-index: 1;
+}
+
+h2 {
+ text-align: center;
+ margin-top: 15rem;
+}
+
+
+h3 {
+ margin-bottom: -5rem;
+}
+
+h4 {
+	color: aliceblue;
+	font-size: 125%;
+
+}
+
+.quest1 {
+	position: absolute;
+}
+
+.quest2 {
+	position: absolute;
+	margin-left: 65em;
+}
+
+.back {
+	margin-left: 6em;
+	margin-top: -6em;
+	margin-bottom: 1;
+	position: relative;
+	z-index: 2;	
+}
+
+.next {
+	postion: absolute;
+	margin-left: 23em;
+	margin-top: -9em;
+
+}
+
+
+
+
+p {
+	color: aliceblue;
+}
+

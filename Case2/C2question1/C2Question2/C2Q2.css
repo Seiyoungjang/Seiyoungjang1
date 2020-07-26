@@ -1,0 +1,124 @@
+
+
+h1 {
+	font-family: cursive;
+	text-align: center;
+	font-size: 350%;
+	text-shadow: .2em .2em .3em silver;
+	background: maroon;
+	height: 110px;
+	width: 1420px;
+	border-style: solid;
+	border-radius: 1em;
+
+
+}
+
+body{
+	background-color: #ffffcc;
+	font-family: time;
+	z-index: 1;
+	background-image: url(../../1.jpg);
+	postion: absolute;
+
+}
+
+h2 {
+	font-family: cursive;
+	font-size: 300%;
+	text-align: center;
+	color: #f39c12;
+}
+
+p {
+	color: #f39c12;
+
+}
+
+.explanation {
+	position: relative;
+	background: maroon;
+	width: 47rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 1.5rem;
+	margin-left: 2rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	text-decoration: none;
+
+
+
+}
+
+.next {
+	float: right;
+	margin-left: 53em;
+	position: absolute;
+	margin-top: -20em;
+}
+
+.back {
+	margin-left: -4em;
+	margin-top: -6em;
+	margin-bottom: 1;
+	position: absolute;
+}
+
+
+a {	
+	color: black;
+	font-family: time;
+	text-decoration: none;
+}
+
+h5 {
+	font-family: cursive;
+	font-size: 150%;
+	text-align: center;
+	color: #f39c12;
+}
+
+.Third {
+	position: absolute;
+	background: maroon;
+	width: 20rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	float: right;
+	margin-top: -16rem;
+	margin-left: 60rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+}
+
+.Fourth {
+	position: relative;
+	background: maroon;
+	width: 40rem;
+	hieght: 300px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 3rem;
+	margin-left: 2rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+}
+
+
+
+

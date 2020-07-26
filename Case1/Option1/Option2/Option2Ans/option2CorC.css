@@ -1,0 +1,111 @@
+h1 {
+	font-family: cursive;
+	font-size: 350%;
+	text-align: center;
+	text-shadow: .2em .2em .3em silver;
+	background-image: url(../../../techno.jpg);
+	height: 110px;
+	width: 1420px;
+	border-style: solid;
+	border-radius: 1em;
+	border-color: #f39c12;
+	color: aliceblue;
+
+}
+
+body{
+	background-color: #ffffcc;
+	font-family: time;
+	z-index: 1;
+	background-image: url(../../../baggg.jpg);
+	position: absolute;
+
+}
+
+
+
+h2 {
+	font-family: cursive;
+	font-size: 300%;
+	text-align: center;
+	border-color: #f39c12;
+	color: aliceblue;
+
+}
+
+p {
+	color: aliceblue;
+
+}
+
+.explanation {
+	position: relative;
+	background-image: url(../../../techno.jpg);
+	width: 47rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 1.5rem;
+	margin-left: 2rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: #f39c12;
+	text-decoration: none;
+	color: aliceblue;
+
+
+
+}
+
+.Choice {
+	position: relative;
+	background-image: url(../../../techno.jpg);
+	width: 500px;
+	hieght: 60px;
+	font-size: 100%;
+	font-family: time;
+	margin-top: -19rem;
+	margin-left: 54rem;
+	box-sizing: content-box;
+	padding-left: 0.01em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: #f39c12;
+	color: aliceblue;
+
+
+}
+
+a:visited { color: #FFFACD; }
+a:active { color: #aliceblue; }
+a { 
+	color: #E0FFFF;  
+	text-decoration:none;
+}
+
+
+h3 {
+	font-family: cursive;
+	text-align: center;
+	font-size: 120%;
+	color: aliceblue;
+
+}
+
+.back {
+	margin-left: -4em;
+	margin-top: -6em;
+	margin-bottom: 1;
+	position: absolute;
+}
+
+
+
+
+

@@ -1,0 +1,114 @@
+h1 {
+	font-family: cursive;
+	font-size: 350%;
+	text-align: center;
+	text-shadow: .2em .2em .3em silver;
+	background-image: url(../../techno.jpg);
+	height: 110px;
+	width: 1420px;
+	border-style: solid;
+	border-radius: 1em;
+	border-color: #f39c12;
+	color: aliceblue;
+
+
+}
+
+
+body {
+	background-color: #ffffcc;
+	font-family: time;
+	z-index: 1;
+	background-image: url(../../baggg.jpg);
+	postion: absolute;
+	
+
+
+}
+
+h2 {
+	text-align: center;
+	color: aliceblue;
+
+}
+
+h3 {
+	position: absolute;
+	margin-left: 1em;
+
+
+}
+
+.pic {
+	positon: absolute;
+	margin-top: -25rem;
+	margin-left: 3rem;
+}
+
+
+.back {
+	margin-left: -5em;
+	margin-top: -7em;
+	margin-bottom: 1;
+	position: relative;
+	z-index: 1;
+}
+
+
+
+
+.Question2 {
+	background-image: url(../../techno.jpg);
+	width: 40rem;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 6rem;
+	margin-bottom: 5rem;
+	margin-left: 44rem;
+	box-sizing: content-box;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	padding-bottom: 2em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: #f39c12;
+	position: relative;
+	color: aliceblue;
+
+}
+
+.Choice1 {
+	background-image: url(../../techno.jpg);
+	width: 40rem;
+	height: 200px;
+	font-family: time;
+	font-size: 85%;
+	box-sizing: content-box;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	padding-top: -1.5em;
+	padding-bottom: 2em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: #f39c12;
+	position: relative;
+	margin-left: 1.5rem;
+	margin-bottom: 1.5rem;
+	color: aliceblue;
+
+
+}
+
+ul {
+	color: aliceblue;
+}
+
+a:visited { color: #FFFACD; }
+a:active { color: aliceblue; }
+a { 
+	color: #E0FFFF;  
+	text-decoration: none;
+}
+
+
+

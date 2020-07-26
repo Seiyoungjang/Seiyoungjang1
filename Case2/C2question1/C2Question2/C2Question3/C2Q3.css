@@ -1,0 +1,164 @@
+
+body{
+	background-color: #ffffcc;
+	font-family: time;
+	z-index: 1;
+	background-image: url(../../../1.jpg);
+	position: absolute;
+
+}
+
+h1 {
+	font-family: cursive;
+	text-align: center;
+	font-size: 350%;
+	text-shadow: .2em .2em .3em silver;
+	background: maroon;
+	height: 110px;
+	width: 1420px;
+	border-style: solid;
+	border-radius: 1em;
+
+}
+
+
+h2 {
+	font-family: cursive;
+	font-size: 300%;
+	text-align: center;
+	color: #f39c12;
+}
+
+p {
+	color: #f39c12;
+
+}
+
+.explanation {
+	position: relative;
+	background: maroon;
+	width: 47rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 1.5rem;
+	margin-left: 2rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	text-decoration: none;
+
+
+}
+
+.explanationnn {
+	position: relative;
+	background: maroon;
+	width: 47rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 1.5rem;
+	margin-left: 2rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	text-decoration: none;
+
+
+}
+
+.next {
+	position: absolute;
+	background: maroon;
+	width: 500px;
+	hieght: 60px;
+	margin-top: -19rem;
+	margin-left: 53rem;
+	margin-right: rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 2em;
+	border-style: solid;
+	border-color: black;
+	border-radius: 0.5em;
+	font-family: time;
+	font-size: 115%;
+	color: #f39c12;
+}
+
+h3 {
+	font-family: cursive;
+	font-size: 300%;
+	text-align: center;
+	color: #f39c12;
+
+}
+
+.back {
+	margin-left: -4em;
+	margin-top: -6em;
+	margin-bottom: 1;
+	position: absolute;
+}
+
+.back2 {
+	margin-left: -xem;
+	margin-top: -6em;
+	margin-bottom: 1;
+	position: absolute;
+}
+
+
+a {	
+	color: #f39c12;
+	font-family: time;
+	text-decoration: none;
+}
+
+h5 {
+	font-family: cursive;
+	font-size: 110%;
+	text-align: center;
+	margin-top: -15em;
+	color: #f39c12;
+	position: absolute;
+
+}
+
+
+#container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 50%;
+	height: 80%;
+	margin-left: 20em;
+	margin-top: 5em;
+	margin-bottom: 5em;
+	text-align: center;
+	color: #f39c12;
+	border-style: solid;
+	border-radius: 1em;
+	border-color: black;
+	background: maroon;
+	position: absolute;
+}
+
+#container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 18px;
+  background: black;
+
+  
+}
+
