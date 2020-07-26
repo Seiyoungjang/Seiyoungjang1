@@ -1,0 +1,97 @@
+
+html {
+	font-size: 150%;
+}
+
+h1 {
+	font-family: cursive;
+	text-align: center;
+	text-shadow: .2em .2em .3em silver;
+	background: maroon;
+	height: 110px;
+	width: 1420px;
+	border-style: solid;
+	border-radius: 1em;
+	
+
+}
+
+body {
+	background-image: url(pap.jpg);
+	background-image: repeat;
+	font-family: time;
+	z-index: 1;
+	position: absolute;
+
+
+}
+
+h5 {
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h2 {
+	text-align: center;
+	font-size: 80%;
+	font-family: time;
+	position; fixed;
+
+}
+
+h4 {
+	text-align: center;
+}
+
+
+.TOC {
+	position: absolute;
+	background: maroon;
+	width: 150px;
+	hieght: 60px;
+	font-family: time;
+	font-size: 80%;
+	margin-top: -15rem;
+	margin-left: 51rem;
+	float: right;
+	padding-left: 0.01em;
+	padding-right: 0.01em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+
+}
+
+.TOC em { 
+	color: black;
+}
+
+
+a {
+	color: #f39c12;	
+{
+
+ul.TOC {
+	list-style-type: none;
+}
+
+.foot {
+	position: relative;
+	font-size: 10%;
+	top: 10em;
+	right: .2em;
+  	margin-bottom: 0;
+  	margin-top: 6rem;
+	font-family: time;	
+}
+
+
+footer:active {
+	color: maroon;
+}
