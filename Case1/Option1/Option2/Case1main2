@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<meta charset="utf-8">
+<link href="Case1main2.css" rel="stylesheet">
+	<title>Question2</title>
+</head>
+
+<body>
+<h1>Question 2</h1>
+
+<div class="Question2">
+<h2><u>Question 2</u></h2>
+<p>
+Alright you and the authorities have access to Ronald’s computer. They run a program that scans Ronald’s past searches in Internet Explorer. There could be a chance that he looked up topics related to monkeys during his preparation for the crime. This is it - the moment of truth. They scan it ...  and no words related to monkey stealing come up. What should you do?
+</p>
+</div>
+
+<div class="pic">
+<img src="Bhistory.png" width="601.2" height="400.8">
+</div>
+
+<div class="back">
+<a href="../option1BCor.html"><img src="../../back.png" width ="480" height="270"></a>
+</div>
+
+<div class="Choice1">
+<h2><u>Your Options</u><h2>
+ <ul>
+   <li><em><a href="Option2Ans/option2A.html">Give up - the evidence speaks for itself and there is nothing you can do.</a></em></li>
+
+   <li><em><a href="Option2Ans/option2B.html">Present to the court that because there are no searches, Ronald must have deleted his search history and be guilty.</a></em></li>
+
+   <li><em><a href="Option2Ans/option2corC.html">Run a program that looks into the search history of other browsers on Ronald’s computer.</a></em></li>
+
+ </ul>
+
+</div>
+
+</div>
+
+
+
+
+
+</html>
