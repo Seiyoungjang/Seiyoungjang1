@@ -1,4 +1,3 @@
-
 html {
 	font-size: 150%;
 }
@@ -7,11 +6,14 @@ h1 {
 	font-family: cursive;
 	text-align: center;
 	text-shadow: .2em .2em .3em silver;
-	background: maroon;
+	background-image: url(spoop.jpg);
+	background-image: repeat;
 	height: 110px;
 	width: 1420px;
 	border-style: solid;
 	border-radius: 1em;
+	border-color: lightyellow;
+	color: honeydew;
 	
 
 }
@@ -47,12 +49,15 @@ h2 {
 
 h4 {
 	text-align: center;
+	color: honeydew;
+	font-size: 115%;
 }
 
 
 .TOC {
 	position: absolute;
-	background: maroon;
+	background-image: url(spoop.jpg);
+	background-image: repeat;
 	width: 150px;
 	hieght: 60px;
 	font-family: time;
@@ -60,11 +65,12 @@ h4 {
 	margin-top: -15rem;
 	margin-left: 51rem;
 	float: right;
-	padding-left: 0.01em;
-	padding-right: 0.01em;
+	padding-left: 1em;
+	padding-right: 1em;
 	padding-bottom: 0.6em;
 	border-style: solid;
 	border-radius: 0.5em;
+	border-color: lightyellow;
 
 }
 
