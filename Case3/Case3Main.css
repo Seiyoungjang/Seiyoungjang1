@@ -1,0 +1,106 @@
+h1 {
+	font-family: cursive;
+	font-size: 350%;
+	text-align: center;
+	text-shadow: .2em .2em .3em silver;
+	background-image: url(lock.jpg);
+	height: 110px;
+	width: 1420px;
+	border-style: solid;
+	border-radius: 1em;
+	border-color: black;
+	color: gold;
+
+
+}
+
+
+body {
+	position: absolute;
+	background-color: #ffffcc;
+	font-family: time;
+	z-index: 1;
+	background: url(mop.png);
+	background-image: 60%;
+	position: absolute;
+
+
+}
+
+.cont {
+	position: relative;
+	background-image: url(matrix.jpg);
+	width: 47rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 1.5rem;
+	margin-left: 2rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: black;
+	color: gold;
+
+}
+
+P {
+	color: gold;
+
+}
+
+a:visited { color: lightblue; }
+a:active { color: #f39c12; }
+a { 
+	color: #E0FFFF;  
+	text-decoration:none;
+}
+
+h4 {
+	color: gold;
+	text-align: center;
+	font-size: 120%;
+}
+
+.Choice {
+	position: relative;
+	background-image: url(matrix.jpg);
+	width: 500px;
+	hieght: 60px;
+	font-family: time;
+	margin-top: -20rem;
+	margin-left: 54rem;
+	box-sizing: content-box;
+	padding-left: 0.01em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+
+}
+
+h3 {
+	text-align: center;
+	color: gold;
+	font-size: 120%;
+
+}
+
+.back {
+	margin-left: -4em;
+	margin-top: 2.5em;
+	margin-bottom: 1;
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
