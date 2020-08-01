@@ -1,0 +1,113 @@
+
+
+h1 {
+	font-family: cursive;
+	font-size: 350%;
+	text-align: center;
+	text-shadow: .2em .2em .3em silver;
+	background-image: url(../../../lock.jpg);
+	height: 110px;
+	width: 1420px;
+	border-style: solid;
+	border-radius: 1em;
+	border-color: black;
+	color: gold;
+}
+
+body{
+	background-color: #ffffcc;
+	font-family: time;
+	z-index: 1;
+	background: url(../../../mop.png);
+	background-image: 60%;
+	position: absolute;
+}
+
+h2 {
+	font-family: cursive;
+	font-size: 300%;
+	text-align: center;
+	color: #f39c12;
+}
+
+p {
+	color: #f39c12;
+
+}
+
+.explanation {
+	position: absolute;
+	background-image: url(../../../matrix.jpg);
+	width: 47rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: 1.5rem;
+	margin-left: 2rem;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: black;
+	color: gold;
+
+
+
+}
+
+.next {
+	float: right;
+	margin-left: 50em;
+	position: absolute;
+}
+
+.back {
+	margin-left: -4em;
+	margin-top: 16em;
+	margin-bottom: 1;
+	position: absolute;
+
+}
+
+.back2 {
+	margin-left: -4em;
+	margin-top: 17em;
+	margin-bottom: 1;
+	position: absolute;
+
+}
+
+.back3 {
+	margin-left: -4em;
+	margin-top: 10em;
+	margin-bottom: 1;
+	position: absolute;
+
+}
+
+
+
+a {	
+	color: black;
+	font-family: time;
+	text-decoration: none;
+}
+
+P {
+	color: gold;
+
+}
+
+h5 {
+	font-family: cursive;
+	font-size: 150%;
+	text-align: center;
+	color: gold;
+}
+
+
+
+
+
