@@ -63,9 +63,29 @@ p {
 	position: absolute;
 }
 
+.vid {
+	position: absolute;
+	margin-top: 28rem;
+	margin-left: 3rem;
+	margin-bottom: 4rem;
+	border-style: solid;
+	border-color: red;
+	width: 560;
+	height: 315px;
+}
+
+.pic {
+	position: absolute;
+	margin-top: 30rem;
+	margin-left: 40rem;
+	border-style: solid;
+	border-color: black;
+	background-image: url(../../../../../matrix.jpg);
+
+}
 .back {
 	margin-left: -4em;
-	margin-top: 13em;
+	margin-top: 10em;
 	margin-bottom: 1;
 	position: absolute;
 
@@ -81,7 +101,7 @@ p {
 
 .back3 {
 	margin-left: -4em;
-	margin-top: 10em;
+	margin-top: 14.5em;
 	margin-bottom: 1;
 	position: absolute;
 
