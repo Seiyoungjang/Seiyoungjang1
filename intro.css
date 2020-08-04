@@ -10,7 +10,7 @@ h1 {
 	background-image: url(spoop.jpg);
 	background-image: repeat;
 	height: 110px;
-	width: 1420px;
+	width: 1200%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: lightyellow;
