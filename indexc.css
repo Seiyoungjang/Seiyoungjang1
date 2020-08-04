@@ -23,7 +23,7 @@ body {
 	background-image: url(pat.jpg);
 	font-family: time;
 	z-index: 1;
-
+	position: absolute;
 
 }
 
