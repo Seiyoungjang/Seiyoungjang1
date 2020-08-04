@@ -20,7 +20,7 @@ h1 {
 }
 
 body {
-	background-image: url(pap.jpg);
+	background-image: url(pat.jpg);
 	background-image: repeat;
 	font-family: time;
 	z-index: 1;
@@ -96,8 +96,8 @@ h4 {
 	hieght: 60px;
 	font-family: time;
 	font-size: 80%;
-	margin-top: -30rem;
-	margin-left: 48rem;
+	margin-top: -32rem;
+	margin-left: 50rem;
 	float: right;
 	padding-left: 1em;
 	padding-right: 1em;
