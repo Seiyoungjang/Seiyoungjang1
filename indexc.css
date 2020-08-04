@@ -24,12 +24,15 @@ body {
 	font-family: time;
 	z-index: 1;
 	position: absolute;
+	width: 105%;
+	over-flow: hidden;
+
 
 
 }
 
 h5 {
-
+	position: absolute;
 }
 
 .center {
