@@ -23,14 +23,12 @@ body {
 	background-image: url(pat.jpg);
 	font-family: time;
 	z-index: 1;
-	position: absolute;
-
 
 
 }
 
 h5 {
-
+	margin-left: 23.5rem;
 }
 
 .center {
