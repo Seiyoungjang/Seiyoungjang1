@@ -1,3 +1,4 @@
+
 html {
 	font-size: 150%;
 }
@@ -6,7 +7,7 @@ h1 {
 	font-family: cursive;
 	text-align: center;
 	text-shadow: .2em .2em .3em silver;
-	background-image: url(spoop.jpg);
+	background-image: url(bin.jpg);
 	background-image: repeat;
 	height: 110px;
 	width: 1420px;
@@ -19,8 +20,7 @@ h1 {
 }
 
 body {
-	background-image: url(pap.jpg);
-	background-image: repeat;
+	background-image: url(pat.jpg);
 	font-family: time;
 	z-index: 1;
 	position: absolute;
@@ -43,7 +43,21 @@ h2 {
 	text-align: center;
 	font-size: 80%;
 	font-family: time;
-	position; fixed;
+	position: absolute;
+	color: honeydew;
+	background-image: url(bin.jpg);
+	background-image: repeat;
+	height: 110px;
+	width: 800px;
+	border-style: solid;
+	border-radius: 1em;
+	border-color: lightyellow;
+	padding-top: 1rem;
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+	margin-left: 12.5rem;
+
+	
 
 }
 
@@ -56,13 +70,13 @@ h4 {
 
 .TOC {
 	position: absolute;
-	background-image: url(spoop.jpg);
+	background-image: url(bin.jpg);
 	background-image: repeat;
 	width: 150px;
 	hieght: 60px;
 	font-family: time;
 	font-size: 80%;
-	margin-top: -15rem;
+	margin-top: -13rem;
 	margin-left: 51rem;
 	float: right;
 	padding-left: 1em;
