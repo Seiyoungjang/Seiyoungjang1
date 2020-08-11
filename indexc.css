@@ -10,12 +10,12 @@ h1 {
 	background-image: url(bin.jpg);
 	background-image: repeat;
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: lightyellow;
 	color: honeydew;
-	
+	position: relative;
 
 }
 
@@ -23,13 +23,15 @@ body {
 	background-image: url(pat.jpg);
 	font-family: time;
 	z-index: 1;
-	position: absolute;
-
+	min-width: 1368px;
+	min-height: 703px;
 }
 
 h5 {
-	text-align: center;
+	position: relative;
+
 }
+
 
 .center {
   display: block;
@@ -39,24 +41,25 @@ h5 {
 
 
 h2 {
+	position: relative;
 	text-align: center;
 	font-size: 80%;
 	font-family: time;
-	position: absolute;
 	color: honeydew;
+	height: 60px;
+	width: 870px;
+	margin-left: 11rem;
 	background-image: url(bin.jpg);
 	background-image: repeat;
 	height: 110px;
-	width: 800px;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: lightyellow;
 	padding-top: 1rem;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
-	margin-left: 12.5rem;
 
-	
+
 
 }
 
@@ -68,14 +71,14 @@ h4 {
 
 
 .TOC {
-	position: absolute;
+	position: relative;
 	background-image: url(bin.jpg);
 	background-image: repeat;
 	width: 150px;
 	hieght: 60px;
 	font-family: time;
 	font-size: 80%;
-	margin-top: -13rem;
+	margin-top: -19rem;
 	margin-left: 51rem;
 	float: right;
 	padding-left: 1em;
