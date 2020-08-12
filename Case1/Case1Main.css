@@ -5,7 +5,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(techno.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: #f39c12;
@@ -21,8 +21,8 @@ body {
 	z-index: 1;
 	background-image: url(baggg.jpg);
 	background-image: repeat;
-	position: absolute;
-
+	min-width: 1440px;
+	min-height: 764px;
 }
 
 .caseinfo {
@@ -41,7 +41,6 @@ body {
 	border-style: solid;
 	border-radius: 0.5em;
 	border-color: #f39c12;
-	position: absolute:
 
 
 }
@@ -52,9 +51,7 @@ body {
 	hieght: 600px;
 	font-family: time;
 	font-size: 115%;
-	margin-top: 6rem;
-	margin-bottom: 5rem;
-	margin-right: -8rem;
+	margin-top: -6rem;
 	box-sizing: content-box;
 	padding-left: 1em;
 	padding-right: 1em;
@@ -62,7 +59,7 @@ body {
 	border-style: solid;
 	border-radius: 0.5em;
 	border-color: #f39c12;
-	position: absolute;
+	position: relative;
 
 }
 
@@ -89,15 +86,15 @@ h4 {
 	width: 500px;
 	hieght: 60px;
 	font-family: time;
-	margin-top: -14rem;
-	margin-left: 54rem;
+	margin-top: -24rem;
+	float: right;
 	box-sizing: content-box;
 	padding-left: 0.01em;
 	padding-right: 1em;
 	padding-bottom: 0.6em;
 	border-style: solid;
 	border-radius: 0.5em;
-	position: absolute;
+	position: relative;
 	border-color: #f39c12;
 
 }
@@ -111,9 +108,9 @@ h3 {
 }
 
 .monkaS {
-	margin-left: 60rem;	
-	margin-top: 10rem;
-	position: absolute;
+	margin-left: 70%;	
+	margin-top: -10rem;
+	position: relative;
 
 }
 
@@ -123,8 +120,16 @@ h3 {
 	margin-left: -4em;
 	margin-top: -6em;
 	margin-bottom: 1;
-	position: absolute;
+	position: relative;
 }
+
+
+
+
+
+
+
+
 
 
 
