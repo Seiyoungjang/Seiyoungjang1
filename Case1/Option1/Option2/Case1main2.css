@@ -113,7 +113,7 @@ h3 {
 	border-radius: 0.5em;
 	border-color: #f39c12;
 	position: relative;
-	margin-left: 1.5rem;
+	margin-left: 5%;
 	margin-bottom: 1.5rem;
 	color: aliceblue;
 	font-size: 120%;
@@ -134,9 +134,10 @@ a {
 }
 
 .coin {
-	position: absolute;
-	margin-left: 60rem;
-	margin-top: -14rem;
+	position: relative;
+	float: right;
+	margin-top: -15%;
+	margin-right: 10%;
 
 }
 
