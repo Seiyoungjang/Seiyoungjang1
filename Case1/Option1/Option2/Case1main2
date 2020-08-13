@@ -31,9 +31,9 @@ Alright you and the authorities have access to Ronald’s computer. They run a p
 <h2><u>Your Options</u><h2>
  <ul>
    <li><em><a href="Option2Ans/option2A.html">Give up - the evidence speaks for itself and there is nothing you can do.</a></em></li>
-
+<br>
    <li><em><a href="Option2Ans/option2B.html">Present to the court that because there are no searches, Ronald must have deleted his search history and be guilty.</a></em></li>
-
+<br>
    <li><em><a href="Option2Ans/option2corC.html">Run a program that looks into the search history of other browsers on Ronald’s computer.</a></em></li>
 
  </ul>
