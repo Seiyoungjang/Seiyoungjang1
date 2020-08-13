@@ -5,7 +5,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(../techno.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: #f39c12;
@@ -22,8 +22,8 @@ body {
 	z-index: 3;
 	background-image: url(../baggg.jpg);
 	background-image: repeat;
-	position: absolute;
-
+	min-width: 1440px;
+	min-height: 764px;
 
 }
 
@@ -45,7 +45,7 @@ body {
 	border-style: solid;
 	border-radius: 0.5em;
 	border-color: #f39c12;
-	position: absolute:
+	position: relative;
 	color: aliceblue;
 	text-align: center;
 	z-index: 1;
@@ -67,14 +67,7 @@ h4 {
 
 }
 
-.quest1 {
-	position: absolute;
-}
 
-.quest2 {
-	position: absolute;
-	margin-left: 65em;
-}
 
 .back {
 	margin-left: 6em;
@@ -85,9 +78,8 @@ h4 {
 }
 
 .next {
-	postion: absolute;
-	margin-left: 23em;
-	margin-top: -9em;
+	postion: relative;
+	margin-left: 26%;
 
 }
 
