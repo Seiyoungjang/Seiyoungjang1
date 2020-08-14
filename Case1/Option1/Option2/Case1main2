@@ -16,16 +16,17 @@
 <img src="Bhistory.png" width="601.2" height="400.8">
 </div>
 
-<div class="back">
-<a href="../option1BCor.html"><img src="../../back.png" width ="480" height="270"></a>
-</div>
-
 <div class="Question2">
 <h2><a href="hint.html">Question 2</a></h2>
 <p>
 Alright you and the authorities have access to Ronald’s computer. They run a program that scans Ronald’s past searches in Internet Explorer. There could be a chance that he looked up topics related to monkeys during his preparation for the crime. This is it - the moment of truth. They scan it ...  and no words related to monkey stealing come up. What should you do?
 </p>
 </div>
+
+<div class="back">
+<a href="../option1BCor.html"><img src="../../back.png" width ="480" height="270"></a>
+</div>
+
 
 <div class="Choice1">
 <h2><u>Your Options</u><h2>
