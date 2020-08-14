@@ -69,6 +69,8 @@ p {
 	font-size: 100%;
 	font-family: time;
 	float: right;
+	margin-top: -16%;
+	margin-right: 2%;
 	box-sizing: content-box;
 	padding-left: 0.01em;
 	padding-right: 1em;
@@ -99,8 +101,9 @@ h3 {
 
 .back {
 
-	margin-top: -6em;
+	margin-top: -7%;
 	margin-bottom: 1;
+	margin-left: -5%;
 	position: absolute;
 }
 
