@@ -5,7 +5,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(../../../techno.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: #f39c12;
@@ -18,8 +18,8 @@ body{
 	font-family: time;
 	z-index: 1;
 	background-image: url(../../../baggg.jpg);
-	position: absolute;
-
+	min-width: 1440px;
+	min-height: 764px;
 }
 
 
@@ -68,8 +68,7 @@ p {
 	hieght: 60px;
 	font-size: 100%;
 	font-family: time;
-	margin-top: -19rem;
-	margin-left: 54rem;
+	float: right;
 	box-sizing: content-box;
 	padding-left: 0.01em;
 	padding-right: 1em;
@@ -99,7 +98,7 @@ h3 {
 }
 
 .back {
-	margin-left: -4em;
+
 	margin-top: -6em;
 	margin-bottom: 1;
 	position: absolute;
