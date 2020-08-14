@@ -101,11 +101,14 @@ h3 {
 
 .back {
 
+.back {
+	z-index: 2;
 	margin-top: -7%;
 	margin-bottom: 1;
 	margin-left: -5%;
-	position: absolute;
+	position: relative;
 }
+
 
 
 
