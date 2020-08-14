@@ -13,7 +13,7 @@
 <h1>Question 2</h1>
 
 <div class="pic">
-<img src="Bhistory.png" width="601.2" height="400.8">
+<a href="hint.html"><img src="Bhistory.png" width="601.2" height="400.8"></a>
 </div>
 
 <div class="Question2">
@@ -27,7 +27,6 @@ Alright you and the authorities have access to Ronald’s computer. They run a p
 <a href="../option1BCor.html"><img src="../../back.png" width ="480" height="270"></a>
 </div>
 
-
 <div class="Choice1">
 <h2><u>Your Options</u><h2>
  <ul>
@@ -36,15 +35,10 @@ Alright you and the authorities have access to Ronald’s computer. They run a p
    <li><em><a href="Option2Ans/option2B.html">Present to the court that because there are no searches, Ronald must have deleted his search history and be guilty.</a></em></li>
 <br>
    <li><em><a href="Option2Ans/option2corC.html">Run a program that looks into the search history of other browsers on Ronald’s computer.</a></em></li>
-
  </ul>
-
 </div>
 
-</div>
-
-
-
+</body>
 
 
 </html>
