@@ -63,7 +63,7 @@ h3 {
 	font-family: time;
 	font-size: 115%;
 	float: right;
-	margin-top: 10%;
+	margin-top: 10rem;
 	box-sizing: content-box;
 	padding-left: 1.5em;
 	padding-right: 1.5em;
@@ -136,7 +136,7 @@ a {
 .coin {
 	position: relative;
 	float: right;
-	margin-top: -15%;
+	margin-top: -15rem;
 	margin-right: 10%;
 
 }
