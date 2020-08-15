@@ -5,7 +5,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background: maroon;
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 
@@ -17,7 +17,8 @@ body {
 	font-family: time;
 	z-index: 1;
 	background-image: url(1.jpg);
-	position: absolute;
+	min-width: 1440px;
+	min-height: 764px;
 
 
 
@@ -65,8 +66,9 @@ h4 {
 	width: 500px;
 	hieght: 60px;
 	font-family: time;
-	margin-top: -16rem;
-	margin-left: 56rem;
+	margin-top: -17%;
+	float: right;
+	margin-right: 4%;
 	box-sizing: content-box;
 	padding-left: 0.01em;
 	padding-right: 1em;
@@ -84,10 +86,11 @@ h3 {
 }
 
 .back {
-	margin-left: -4em;
-	margin-top: -4em;
+	margin-left: -4%;
+	margin-top: -6%;
 	margin-bottom: 1;
-	position: absolute;
+	position: relative;
+	z-index: 2;
 }
 
 
