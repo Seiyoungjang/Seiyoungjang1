@@ -86,10 +86,10 @@ h3 {
 }
 
 .back {
-	margin-left: -4%;
-	margin-top: -6%;
+	margin-left: -4rem;
+	margin-top: -6rem;
 	margin-bottom: 1;
-	position: relative;
+	position: absolute;
 	z-index: 2;
 }
 
