@@ -7,7 +7,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background: maroon;
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 
@@ -19,7 +19,8 @@ body{
 	font-family: time;
 	z-index: 1;
 	background-image: url(../../1.jpg);
-	postion: absolute;
+	min-width: 1440px;
+	min-height: 764px;
 
 }
 
@@ -84,40 +85,6 @@ h5 {
 	color: #f39c12;
 }
 
-.Third {
-	position: absolute;
-	background: maroon;
-	width: 20rem;
-	hieght: 600px;
-	font-family: time;
-	font-size: 115%;
-	float: right;
-	margin-top: -16rem;
-	margin-left: 60rem;
-	box-sizing: content-box;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-}
-
-.Fourth {
-	position: relative;
-	background: maroon;
-	width: 40rem;
-	hieght: 300px;
-	font-family: time;
-	font-size: 115%;
-	margin-top: 3rem;
-	margin-left: 2rem;
-	box-sizing: content-box;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-}
 
 
 
