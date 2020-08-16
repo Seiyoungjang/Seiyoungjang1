@@ -5,25 +5,22 @@ h1 {
 	font-size: 350%;
 	text-shadow: .2em .2em .3em silver;
 	background: maroon;
-	height: 1440px;
+	height: 110px;
 	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
-
 }
-
 
 body{
 	background-color: #ffffcc;
 	font-family: time;
 	z-index: 1;
-	background-image: url(../../../1.jpg);
-	min-width: 700px;
+	background-image: url(../../../../1.jpg);
+	background-image: repeat;
+	min-width: 1440px;
 	min-height: 764px;
 
 }
-
-
 
 h2 {
 	font-family: cursive;
@@ -41,7 +38,7 @@ p {
 	position: relative;
 	background: maroon;
 	width: 47rem;
-	height: 300px;
+	hieght: 600px;
 	font-family: time;
 	font-size: 115%;
 	margin-top: 1.5rem;
@@ -57,32 +54,40 @@ p {
 
 }
 
-
-.next {
+.Choice {
 	position: relative;
 	background: maroon;
 	width: 500px;
-	height: 300px;
-	margin-top: -19rem;
-	margin-right: 2%;
-	float: right; 
-	box-sizing: content-box;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 2em;
-	border-style: solid;
-	border-color: black;
-	border-radius: 0.5em;
+	hieght: 60px;
+	font-size: 100%;
 	font-family: time;
-	font-size: 115%;
-	color: #f39c12;
+	margin-top: -19rem;
+	margin-right: 4%;
+	float: right;
+	box-sizing: content-box;
+	padding-left: 0.01em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: black;
+	color: #f39c12;	
+
 }
+
+a:visited { color: silver; }
+a:active { color: #f39c12; }
+a { 
+	color: #E0FFFF;  
+	text-decoration:none;
+}
+
 
 h3 {
 	font-family: cursive;
-	font-size: 300%;
-	text-align: center;
 	color: #f39c12;
+	text-align: center;
+	font-size: 120%;
 
 }
 
@@ -93,56 +98,7 @@ h3 {
 	position: absolute;
 }
 
-.back2 {
-	margin-left: -xem;
-	margin-top: -6em;
-	margin-bottom: 1;
-	position: absolute;
-}
 
 
-a {	
-	color: #f39c12;
-	font-family: time;
-	text-decoration: none;
-}
 
-h5 {
-	font-family: cursive;
-	font-size: 110%;
-	text-align: center;
-	margin-top: -15em;
-	color: #f39c12;
-	position: absolute;
-
-}
-
-
-#container {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	width: 50%;
-	height: 80%;
-	margin-left: 5rem;
-	margin-top: 5em;
-	margin-bottom: 5em;
-	text-align: center;
-	color: #f39c12;
-	border-style: solid;
-	border-radius: 1em;
-	border-color: black;
-	background: maroon;
-	position: relative;
-}
-
-#container > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 20px;
-  font-size: 18px;
-  background: black;
-
-  
-}
 
