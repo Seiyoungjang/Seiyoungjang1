@@ -27,7 +27,7 @@ body {
 	position: relative;
 	background: maroon;
 	width: 47rem;
-	hieght: 600px;
+	height: 190px;
 	font-family: time;
 	font-size: 115%;
 	margin-top: 1.5rem;
@@ -63,7 +63,7 @@ h4 {
 	position: relative;
 	background: maroon;
 	width: 500px;
-	hieght: 60px;
+	height: 470px;
 	font-family: time;
 	margin-top: -13rem;
 	margin-right: 2%;
@@ -90,10 +90,7 @@ h3 {
 	position: absolute;
 }
 
-.phone {
-	position: relative;
-	margin-top: 5rem;
-}
+
 
 
 
