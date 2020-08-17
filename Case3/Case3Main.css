@@ -5,7 +5,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(lock.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: black;
@@ -22,7 +22,8 @@ body {
 	z-index: 1;
 	background: url(mop.png);
 	background-image: 60%;
-	position: absolute;
+	min-width: 1440px;
+	min-height: 764px;
 
 
 }
@@ -72,7 +73,8 @@ h4 {
 	hieght: 60px;
 	font-family: time;
 	margin-top: -20rem;
-	margin-left: 54rem;
+	margin-right: 4%;
+	float: right;
 	box-sizing: content-box;
 	padding-left: 0.01em;
 	padding-right: 1em;
@@ -91,7 +93,7 @@ h3 {
 
 .back {
 	margin-left: -4em;
-	margin-top: 2.5em;
+	margin-top: -6em;
 	margin-bottom: 1;
 	position: absolute;
 }
