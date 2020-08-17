@@ -1,5 +1,4 @@
 
-
 h1 {
 	font-family: cursive;
 	font-size: 350%;
@@ -7,20 +6,21 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(../lock.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: black;
 	color: gold;
 }
 
-body{
+body {
 	background-color: #ffffcc;
 	font-family: time;
 	z-index: 1;
 	background: url(../mop.png);
 	background-image: 60%;
-	position: absolute;
+	min-width: 1440px;
+	min-height: 764px;
 }
 
 h2 {
@@ -36,7 +36,7 @@ p {
 }
 
 .explanation {
-	position: absolute;
+	position: relative;
 	background-image: url(../matrix.jpg);
 	width: 47rem;
 	hieght: 600px;
@@ -53,47 +53,21 @@ p {
 	border-color: black;
 	color: gold;
 
-
-
 }
 
 .next {
 	float: right;
-	margin-left: 50em;
-	position: absolute;
+	margin-top: -20rem;
+	position: relative;
 }
 
 .back {
 	margin-left: -4em;
-	margin-top: 13em;
+	margin-top: -6rem;
 	margin-bottom: 1;
 	position: absolute;
 
 }
-
-.back2 {
-	margin-left: -4em;
-	margin-top: 16em;
-	margin-bottom: 1;
-	position: absolute;
-
-}
-
-.back3 {
-	margin-left: -4em;
-	margin-top: 10em;
-	margin-bottom: 1;
-	position: absolute;
-
-}
-
-.back5 {
-	margin-left: -4em;
-	margin-top: 11em;
-	margin-bottom: 1;
-	position: absolute;
-}
-
 
 
 a {	
@@ -115,7 +89,10 @@ h5 {
 }
 
 .vid {
-	margin-left: 53rem;
+	position: relative;
+	float: right;
+	margin-top: -18rem;
+	margin-right: 2%;
 	height: 315px;
 	width: 560px;
 	border-style: solid;
