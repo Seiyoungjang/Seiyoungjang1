@@ -7,7 +7,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(../../../../../lock.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: black;
@@ -20,7 +20,8 @@ body{
 	z-index: 1;
 	background: url(../../../../../mop.png);
 	background-image: 60%;
-	position: absolute;
+	min-width: 1440px;
+	min-height: 764px;
 }
 
 h2 {
@@ -36,7 +37,7 @@ p {
 }
 
 .explanation {
-	position: absolute;
+	position: relative;
 	background-image: url(../../../../../matrix.jpg);
 	width: 47rem;
 	hieght: 600px;
@@ -59,25 +60,27 @@ p {
 
 .next {
 	float: right;
-	margin-left: 50em;
-	position: absolute;
+	margin-top: -20rem;
+	position: relative;
 }
 
 .vid {
-	position: absolute;
-	margin-top: 28rem;
+	position: relative;
+	margin-top: 7rem;
 	margin-left: 3rem;
 	margin-bottom: 4rem;
 	border-style: solid;
 	border-color: red;
-	width: 560;
+	width: 560px;
 	height: 315px;
 }
 
 .pic {
-	position: absolute;
-	margin-top: 30rem;
-	margin-left: 40rem;
+	position: relative;
+	float: right;
+	margin-bottom: 8rem;
+	margin-top: -20rem;
+	margin-right: 30%;
 	border-style: solid;
 	border-color: black;
 	background-image: url(../../../../../matrix.jpg);
@@ -85,28 +88,11 @@ p {
 }
 .back {
 	margin-left: -4em;
-	margin-top: 10em;
+	margin-top: -6em;
 	margin-bottom: 1;
 	position: absolute;
 
 }
-
-.back2 {
-	margin-left: -4em;
-	margin-top: 38em;
-	margin-bottom: 1;
-	position: absolute;
-
-}
-
-.back3 {
-	margin-left: -4em;
-	margin-top: 14.5em;
-	margin-bottom: 1;
-	position: absolute;
-
-}
-
 
 
 a {	
