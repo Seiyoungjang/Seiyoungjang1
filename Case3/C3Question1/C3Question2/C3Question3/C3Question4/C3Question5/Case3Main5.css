@@ -5,7 +5,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(../../../../../lock.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: black;
@@ -16,14 +16,13 @@ h1 {
 
 
 body {
-	position: absolute;
 	background-color: #ffffcc;
 	font-family: time;
 	z-index: 1;
 	background: url(../../../../../mop.png);
 	background-image: 60%;
-	position: absolute;
-
+	min-width: 1440px;
+	min-height: 764px;
 
 }
 
@@ -31,7 +30,7 @@ body {
 	position: relative;
 	background-image: url(../../../../../matrix.jpg);
 	width: 47rem;
-	hieght: 600px;
+	height: 200px;
 	font-family: time;
 	font-size: 115%;
 	margin-top: 1.5rem;
@@ -44,6 +43,70 @@ body {
 	border-radius: 0.5em;
 	border-color: black;
 	color: gold;
+
+}
+
+.back {
+	margin-left: -4em;
+	margin-top: -6em;
+	margin-bottom: 1;
+	position: absolute;
+}
+
+.pic {
+	margin-left: 2.5rem;
+	margin-top: 14rem;
+	margin-bottom: 4rem;
+	height: 225px;
+	width: 225px;
+	border-style: solid;
+	position: relative;
+}
+
+
+.noodle {
+
+	position: relative;
+	background-image: url(../../../../../matrix.jpg);
+	width: 47rem;
+	hieght: 600px;
+	font-family: time;
+	font-size: 115%;
+	margin-top: -16rem;
+	margin-right: 21%;
+	float: right;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 1em;
+	border-style: solid;
+	border-radius: 0.5em;
+	border-color: black;
+	color: gold;
+}
+
+.pic2 {
+	position: relative;
+	
+}
+
+
+.Choice {
+	position: relative;
+	background-image: url(../../../../../matrix.jpg);
+	width: 500px;
+	height: 300px;
+	font-family: time;
+	float: right;
+	margin-right: 30%;
+	margin-left: 30rem;
+	margin-bottom: 4rem;
+	box-sizing: content-box;
+	padding-left: 0.01em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
 
 }
 
@@ -65,72 +128,12 @@ h4 {
 	font-size: 120%;
 }
 
-.Choice {
-	position: relative;
-	background-image: url(../../../../../matrix.jpg);
-	width: 500px;
-	hieght: 60px;
-	font-family: time;
-	margin-top: 4rem;
-	margin-left: 30rem;
-	margin-bottom: 4rem;
-	box-sizing: content-box;
-	padding-left: 0.01em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-
-}
 
 h3 {
 	text-align: center;
 	color: gold;
 	font-size: 120%;
 
-}
-
-.back {
-	margin-left: -4em;
-	margin-top: -6em;
-	margin-bottom: 1;
-	position: absolute;
-}
-
-.pic {
-	margin-left: 2.5rem;
-	margin-top: 14rem;
-	margin-bottom: 4rem;
-	height: 225px;
-	width: 225px;
-	border-style: solid;
-	position: absolute;
-}
-
-.pic2 {
-	position: relative;
-	margin-left: 40%;
-	
-}
-
-.noodle {
-
-	position: relative;
-	background-image: url(../../../../../matrix.jpg);
-	width: 47rem;
-	hieght: 600px;
-	font-family: time;
-	font-size: 115%;
-	margin-top: 4rem;
-	margin-left: 18rem;
-	box-sizing: content-box;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 1em;
-	border-style: solid;
-	border-radius: 0.5em;
-	border-color: black;
-	color: gold;
 }
 
 h5 {
