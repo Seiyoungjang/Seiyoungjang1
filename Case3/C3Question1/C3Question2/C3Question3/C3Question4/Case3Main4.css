@@ -5,7 +5,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(../../../../lock.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: black;
@@ -22,7 +22,8 @@ body {
 	z-index: 1;
 	background: url(../../../../mop.png);
 	background-image: 60%;
-	position: absolute;
+	min-width: 1440px;
+	min-height: 764px;
 
 
 }
@@ -31,7 +32,7 @@ body {
 	position: relative;
 	background-image: url(../../../../matrix.jpg);
 	width: 38rem;
-	hieght: 600px;
+	height: 140px;
 	font-family: time;
 	font-size: 115%;
 	margin-top: 1.5rem;
@@ -45,6 +46,52 @@ body {
 	border-color: black;
 	color: gold;
 
+}
+
+.curry1 {
+	float: right;
+}
+
+.currytext1 {
+	position: relative;
+	background-image: url(../../../../matrix.jpg);
+	width: 400px;
+	height: 300px;
+	font-family: time;
+	margin-top: -5rem;
+	float: right;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	font-size: 115%;
+}
+
+.CIC1 {
+	float: right;
+	margin-top: 10rem;
+	position: relative;
+}
+
+.CICtext1 {
+	position: relative;
+	background-image: url(../../../../matrix.jpg);
+	width: 380px;
+	height: 450px;
+	font-family: time;
+	margin-top: 20rem;
+	margin-right: -45%;
+	float: right;
+	box-sizing: content-box;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.6em;
+	border-style: solid;
+	border-radius: 0.5em;
+	font-size: 115%;
+	color: gold;
 }
 
 P {
@@ -65,22 +112,6 @@ h4 {
 	font-size: 120%;
 }
 
-.Choice {
-	position: relative;
-	background-image: url(../../../../matrix.jpg);
-	width: 500px;
-	hieght: 60px;
-	font-family: time;
-	margin-top: -18rem;
-	margin-left: 54rem;
-	box-sizing: content-box;
-	padding-left: 0.01em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-
-}
 
 h3 {
 	text-align: center;
@@ -95,102 +126,6 @@ h3 {
 	margin-bottom: 1;
 	position: absolute;
 }
-
-.curry1 {
-	margin-left: 75rem;
-	position: absolute;
-}
-
-.currytext1 {
-	position: relative;
-	background-image: url(../../../../matrix.jpg);
-	width: 400px;
-	hieght: 60px;
-	font-family: time;
-	margin-top: -5rem;
-	margin-left: 50rem;
-	box-sizing: content-box;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-	font-size: 115%;
-}
-
-.CIC1 {
-	margin-left: 34rem;
-	margin-top: 10rem;
-	position: absolute;
-}
-
-.CICtext1 {
-	position: relative;
-	background-image: url(../../../../matrix.jpg);
-	width: 400px;
-	hieght: 60px;
-	font-family: time;
-	margin-top: 3rem;
-	margin-left: 46rem;
-	box-sizing: content-box;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-	font-size: 115%;
-	color: gold;
-}
-
-.curry2 {
-	margin-left: 72rem;
-	margin-top: 10rem;
-	position: absolute;
-}
-
-.currytext2 {
-	position: relative;
-	background-image: url(../../../../matrix.jpg);
-	width: 400px;
-	hieght: 60px;
-	font-family: time;
-	margin-top: 3rem;
-	margin-left: 46.5rem;
-	box-sizing: content-box;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-	font-size: 115%;
-}
-
-.CIC2 {
-	margin-left: 34rem;
-	margin-top: 10rem;
-	position: absolute;
-}
-
-.CICtext2 {
-	position: relative;
-	background-image: url(../../../../matrix.jpg);
-	width: 400px;
-	hieght: 60px;
-	font-family: time;
-	margin-top: 3rem;
-	margin-left: 46rem;
-	box-sizing: content-box;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-	font-size: 115%;
-}
-
-
-
-
 
 
 
