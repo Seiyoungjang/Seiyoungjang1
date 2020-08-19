@@ -7,7 +7,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(../../../../../../../../lock.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: black;
@@ -20,7 +20,8 @@ body{
 	z-index: 1;
 	background: url(../../../../../../../../mop.png);
 	background-image: 60%;
-	position: absolute;
+	min-width: 1440px;
+	min-height: 764px;
 }
 
 h2 {
@@ -36,7 +37,7 @@ p {
 }
 
 .explanation {
-	position: absolute;
+	position: relative;
 	background-image: url(../../../../../../../../matrix.jpg);
 	width: 50rem;
 	hieght: 600px;
@@ -59,39 +60,17 @@ p {
 
 .next {
 	float: right;
-	margin-left: 53em;
-	position: absolute;
+	margin-top: -20rem;
+	position: relative;
 }
 
 .back {
-	margin-left: -4em;
-	margin-top: 13em;
+	margin-left: -6em;
+	margin-top: -6em;
 	margin-bottom: 1;
 	position: absolute;
 
 }
-
-.back2 {
-	margin-left: -4em;
-	margin-top: 14em;
-	margin-bottom: 1;
-	position: absolute;
-
-}
-
-.back3 {
-	margin-left: -4em;
-	margin-top: 16em;
-	margin-bottom: 1;
-	position: absolute;
-
-}
-
-.back4 {
-	margin-left: -4em;
-	margin-top: 12em;
-	margin-bottom: 1;
-	position: absolute;
 
 }
 
