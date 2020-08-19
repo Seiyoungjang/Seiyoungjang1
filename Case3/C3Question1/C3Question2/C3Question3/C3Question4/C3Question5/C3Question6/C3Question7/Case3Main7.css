@@ -5,7 +5,7 @@ h1 {
 	text-shadow: .2em .2em .3em silver;
 	background-image: url(../../../../../../../lock.jpg);
 	height: 110px;
-	width: 1420px;
+	width: 100%;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: black;
@@ -22,13 +22,14 @@ body {
 	z-index: 1;
 	background: url(../../../../../../../mop.png);
 	background-image: 60%;
-	position: absolute;
+	min-width: 1440px;
+	min-height: 764px;
 
 
 }
 
 .cont {
-	position: absolute;
+	position: relative;
 	background-image: url(../../../../../../../matrix.jpg);
 	width: 47rem;
 	hieght: 600px;
@@ -69,10 +70,11 @@ h4 {
 	position: relative;
 	background-image: url(../../../../../../../matrix.jpg);
 	width: 500px;
-	hieght: 60px;
+	height: 350px;
 	font-family: time;
-	margin-top: 4.5rem;
-	margin-left: 54rem;
+	margin-top: -13rem;
+	margin-right: 3%;
+	float: right;
 	box-sizing: content-box;
 	padding-left: 0.01em;
 	padding-right: 1em;
@@ -91,15 +93,11 @@ h3 {
 
 .back {
 	margin-left: -4em;
-	margin-top: -17em;
+	margin-top: -6em;
 	margin-bottom: 1;
 	position: absolute;
 }
 
-.pic {
-	margin-left: 20rem;
-	margin-top: -2rem;
-}
 
 
 
