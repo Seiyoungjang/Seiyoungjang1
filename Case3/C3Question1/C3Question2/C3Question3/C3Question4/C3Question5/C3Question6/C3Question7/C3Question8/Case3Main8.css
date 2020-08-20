@@ -73,7 +73,8 @@ h4 {
 	hieght: 60px;
 	font-family: time;
 	margin-top: -15rem;
-	margin-left: 54rem;
+	margin-right: 3%;
+	float: right;
 	box-sizing: content-box;
 	padding-left: 0.01em;
 	padding-right: 1em;
