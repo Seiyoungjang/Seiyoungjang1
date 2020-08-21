@@ -54,8 +54,8 @@ body {
 }
 
 .curry1 {
-	float: right;
 	position: relative;
+	margin-top: 5rem;
 }
 
 .currytext1 {
@@ -64,8 +64,8 @@ body {
 	width: 400px;
 	hieght: 60px;
 	font-family: time;
-	margin-top: -5rem;
-	float: right;
+	margin-top: -10rem;
+	margin-left: 14rem;
 	box-sizing: content-box;
 	padding-left: 1em;
 	padding-right: 1em;
@@ -76,20 +76,19 @@ body {
 }
 
 .CIC1 {
-	float: right;
-	margin-top: 14rem;
+
+	margin-top: 8rem;
 	position: relative;
 }
 
 .CICtext1 {
 	position: relative;
 	background-image: url(../../../matrix.jpg);
-	width: 400px;
+	width: 420px;
 	height: 130px;
+	margin-left: 14rem;
 	font-family: time;
-	margin-top: 5rem;
-	float: right;
-	margin-right: -40%;
+	margin-top: -13rem;
 	box-sizing: content-box;
 	padding-left: 1em;
 	padding-right: 1em;
@@ -100,10 +99,11 @@ body {
 }
 
 .curry2 {
-	float: right;
-	margin-top: 25rem;
-	margin-right: -60%;
+
+	margin-top: -15rem;
+	margin-left: 28rem;
 	position: relative;
+	
 }
 
 .currytext2 {
@@ -112,9 +112,7 @@ body {
 	width: 400px;
 	height: 220px;
 	font-family: time;
-	margin-top: 30rem;
-	margin-right: -45%;
-	float: right;
+	margin-top: 5rem;
 	box-sizing: content-box;
 	padding-left: 1em;
 	padding-right: 1em;
@@ -127,21 +125,19 @@ body {
 
 
 .CIC2 {
-	margin-left: 34rem;
-	margin-top: 20rem;
-	float: right;
+
+	margin-top: 10rem;
 	position: relative;
 }
 
 .CICtext2 {
 	position: relative;
 	background-image: url(../../../matrix.jpg);
-	width: 400px;
-	height: 437px;
+	width: 550px;
+	height: 380px;
 	font-family: time;
-	margin-right: -40%;
-	margin-top: 19rem;
-	float: right;
+	margin-top: -15rem;
+	margin-left: 13rem;
 	box-sizing: content-box;
 	padding-left: 1em;
 	padding-right: 1em;
