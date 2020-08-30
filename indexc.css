@@ -23,8 +23,8 @@ body {
 	background-image: url(pat.jpg);
 	font-family: time;
 	z-index: 1;
-	min-width: 1368px;
-	min-height: 703px;
+	min-width: 1440px;
+	min-height: 764px;
 }
 
 h5 {
@@ -48,7 +48,7 @@ h2 {
 	color: honeydew;
 	height: 60px;
 	width: 870px;
-	margin-left: 18.5%;
+	margin-left: 20%;
 	background-image: url(bin.jpg);
 	background-image: repeat;
 	height: 110px;
@@ -58,7 +58,6 @@ h2 {
 	padding-top: 1rem;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
-
 
 
 }
