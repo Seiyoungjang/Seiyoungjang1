@@ -48,7 +48,8 @@ h2 {
 	color: honeydew;
 	height: 60px;
 	width: 870px;
-	margin-left: 20%;
+  	margin-left: auto;
+  	margin-right: auto;
 	background-image: url(bin.jpg);
 	background-image: repeat;
 	height: 110px;
