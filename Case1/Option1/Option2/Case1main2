@@ -10,7 +10,7 @@
 </head>
 
 <body>
-<h1>Question 2</h1>
+<h1><a href="hint.html">Question 2</a></h1>
 
 <div class="pic">
 <a href="hint.html"><img src="Bhistory.png" width="601.2" height="400.8"></a>
