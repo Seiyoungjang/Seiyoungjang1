@@ -3,35 +3,135 @@ html {
 	font-size: 150%;
 }
 
-h1 {
-	font-family: cursive;
-	text-align: center;
-	text-shadow: .2em .2em .3em silver;
-	background-image: url(bin.jpg);
+
+
+body {
+	background-image: url(back.jpg);
 	background-image: repeat;
-	height: 110px;
-	width: 100%;
+	font-family: time;
+	z-index: 1;
+	min-width: 1440px;
+	min-height: 821px;
+}
+
+#menu {
+	position: fixed;
+	z-index: 2;
+	font-family: cursive;
+	text-shadow: .2em .2em .3em silver;
+	background-image: url(bod.jpg);
+	background-size: cover;
+	height: 80px;
+	width: 96%;
+	margin-top: -8rem;
 	border-style: solid;
 	border-radius: 1em;
 	border-color: lightyellow;
 	color: honeydew;
-	position: relative;
+	padding-top: 1rem;
+	padding-bottom: .8rem;
+	font-size: 150%;
+	min-width: 1300px;
+	
+}
+
+
+ul#menu li {
+   display:inline;
+   color: white;
+   background-image: url(menu.jpg);
+   background-size: cover;
+   padding-left: 2rem;
+   padding-right: 2rem;
+   margin-right: 1rem;
+   border-style: solid;
+   border-radius: 1em;
+   border-color: yellow;
+   float: right;
 
 }
 
-body {
-	background-image: url(pat.jpg);
-	font-family: time;
-	z-index: 1;
-	min-width: 1440px;
-	min-height: 764px;
+.he {
+	margin-top: 10rem;
+	postion: realtive;
+	font-family: cursive;
+	text-shadow: .2em .2em .3em silver;
+	background-image: url(Banner.png);
+	background-size: cover;
+	height: 86px;
+	width: 100%;
+	margin-left: auto;
+  	margin-right: auto;
+	border-style: solid;
+	border-color: black;
+	color: honeydew;
+	padding-top: 1rem;
+	padding-bottom: .8rem;
+	font-size: 150%;
+	text-color: black;
+
+
+}
+
+.bod{
+	postion: realtive;
+	font-family: cursive;
+	text-shadow: .2em .2em .3em silver;
+	background-image: url(bod.jpg);
+	background-size: cover;
+	height: 600px;
+	margin-top: 1rem;
+	margin-bottom: 3rem;
+	width: 87%;
+	border-style: solid;
+	border-color: gold;
+	color: honeydew;
+	position: relative;
+	padding-top: 1rem;
+	padding-bottom: .8rem;
+	font-size: 150%;
+	text-color: black;
+	margin-left: auto;
+  	margin-right: auto;
+	
+
+}
+
+.contact {
+	postion: realtive;
+	font-family: cursive;
+	background-size: cover;
+	background-image: url(bod.jpg);
+	height: 400px;
+	margin-top: 1rem;
+	margin-bottom: 3rem;
+	width: 38%;
+	border-style: solid;
+	border-color: gold;
+	color: honeydew;
+	position: relative;
+	padding-top: 1rem;
+	padding-bottom: .8rem;
+	font-size: 150%;
+	text-color: black;
+	float: left;
+	margin-left: 4rem;
+}
+
+h3 {
+	text-align: center;
 }
 
 h5 {
-	position: relative;
-
+	font-size: 60%;
+	margin-left: 1rem;
 }
 
+.text {
+	color: gold;
+	margin-bottom: 4rem;
+	margin-left: 1rem;
+}
 
 .center {
   display: block;
@@ -39,81 +139,14 @@ h5 {
   margin-right: auto;
 }
 
-
-h2 {
-	position: relative;
-	text-align: center;
-	font-size: 80%;
-	font-family: time;
-	color: honeydew;
-	height: 60px;
-	width: 870px;
-  	margin-left: auto;
-  	margin-right: auto;
-	background-image: url(bin.jpg);
-	background-image: repeat;
-	height: 110px;
-	border-style: solid;
-	border-radius: 1em;
-	border-color: lightyellow;
-	padding-top: 1rem;
-	padding-left: 0.5rem;
-	padding-right: 0.5rem;
-
-
-}
-
 h4 {
-	text-align: center;
-	color: honeydew;
-	font-size: 115%;
+	margin-left: 2rem;
 }
-
-
-.TOC {
-	position: relative;
-	background-image: url(bin.jpg);
-	background-image: repeat;
-	width: 150px;
-	hieght: 60px;
-	font-family: time;
-	font-size: 80%;
-	margin-top: -19rem;
-	margin-left: 51rem;
-	float: right;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 0.6em;
-	border-style: solid;
-	border-radius: 0.5em;
-	border-color: lightyellow;
-
-}
-
-.TOC em { 
-	color: black;
-}
-
 
 a {
-	color: #f39c12;	
-{
-
-ul.TOC {
-	list-style-type: none;
-}
-
-.foot {
-	position: relative;
-	font-size: 10%;
-	top: 10em;
-	right: .2em;
-  	margin-bottom: 0;
-  	margin-top: 6rem;
-	font-family: time;	
+	color: gold;
 }
 
 
-footer:active {
-	color: maroon;
-}
+
+
